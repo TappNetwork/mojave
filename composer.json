@@ -1,0 +1,7 @@
+{
+    "name": "tappnetwork/mojave",
+    "description": "Crud Package",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
